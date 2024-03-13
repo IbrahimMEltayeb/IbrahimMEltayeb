@@ -46,7 +46,7 @@
   <a href="IbrahimMEltayeb" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="www.linkedin.com/in/ibrahim-eltayeb-ie1811" target="blank">
+  <a href="https://www.linkedin.com/in/ibrahim-eltayeb-ie1811/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/IbrahimMEltayeb?t=usFJG1gbGv31PhsesS97xg&s=09" target="blank">
